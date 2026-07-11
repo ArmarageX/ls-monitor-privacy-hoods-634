@@ -1,0 +1,6 @@
+services:
+- type: web
+  name: ls-monitor-privacy-hoods-634
+  runtime: static
+  buildCommand: ""
+  staticPublishPath: public
